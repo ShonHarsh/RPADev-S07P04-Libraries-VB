@@ -1,5 +1,5 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
-
+# //Project Pending - I am still updating all of the projects for the RPA Developer Foundation.  In doing so I am updating the existing C# Windows Legacy project while also rewriting them in both C# Windows and VB Windows.  I complete at least one project a day.
 # S07P04 Libraries
 
 This project is my solution in **VB** to the **Libraries** practice found in section 07 practice 04 of the UiPath - RPA Developer Foundation course.
